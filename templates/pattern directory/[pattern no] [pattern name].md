@@ -1,5 +1,7 @@
 # (NNN) <Pattern name>
 
+<image>
+
 ## Context
 
 ## Problem
