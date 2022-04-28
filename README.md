@@ -5,4 +5,4 @@ This is a list of social architecture patterns that one day will hopefully form 
 
 ## Patterns
 
-[(001) Mosaic of sub-groups](\(001\)%20Mosaic%20of%20sub-groups/README.md)
+[(001) Mosaic of sub-groups](patterns/(001)%20Mosaic%20of%20sub-groups/README.md)
