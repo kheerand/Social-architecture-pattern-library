@@ -1,6 +1,6 @@
-# (NNN) <Pattern name>
+# (020) Degrees of Publicness
 
-<image>
+![](images/image001.png)
 
 ## Context
 

@@ -1,6 +1,6 @@
-# (NNN) <Pattern name>
+# (018) Main Gateways
 
-<image>
+![](images/image001.png)
 
 ## Context
 

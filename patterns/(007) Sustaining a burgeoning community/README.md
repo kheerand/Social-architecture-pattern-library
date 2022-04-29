@@ -1,23 +1,17 @@
-# (NNN) <Pattern name>
+# (007) Sustaining a burgeoning community
 
 <image>
 
 ## Context
 
-
 ## Problem
 
-
-## Consequence of problem
-
+How do you sustain a burgeoning community?
 
 ## Solution patterns
 
-
 ## Related Patterns
 
-
 ## Examples
-
 
 <links to examples>

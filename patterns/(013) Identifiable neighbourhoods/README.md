@@ -1,6 +1,6 @@
-# (NNN) <Pattern name>
+# (013) Identifiable Neighbourhoods
 
-<image>
+![](images/image001.png)
 
 ## Context
 

@@ -1,6 +1,6 @@
-# (NNN) <Pattern name>
+# (014) Community of 7000
 
-<image>
+![](images/image001.png)
 
 ## Context
 

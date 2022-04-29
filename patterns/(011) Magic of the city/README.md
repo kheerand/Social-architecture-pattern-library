@@ -1,6 +1,6 @@
-# (NNN) <Pattern name>
+# (011) Magic of the City
 
-<image>
+![](images/image001.png)
 
 ## Context
 
