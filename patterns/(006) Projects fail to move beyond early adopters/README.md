@@ -1,5 +1,8 @@
 # (006) Projects fail to move beyond early adopters
 
+> **NOTE:**
+> Need a catchier name for this pattern
+
 <image>
 
 ## Context
