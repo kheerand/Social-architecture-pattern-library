@@ -31,7 +31,7 @@ This is a collection of social architecture patterns that one day will hopefully
 * [(035) Getting data to the facility](patterns/(035)%20Getting%20data%20to%20the%20facility/README.md)
 * [(036) Pioneers, settlers & town planners](patterns/(036)%20Pioneers%2C%20settlers%20%26%20town%20planners/README.md)
 * [(037) Collaborating with privacy](patterns/(037)%20Collaborating%20with%20privacy/README.md)
-* [(0nn) Digital transformation](patterns/(0nn)%20Digital%20transformation/README.md)
+* [(039) Digital transformation](patterns/(039)%20Digital%20transformation/README.md)
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
