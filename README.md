@@ -20,7 +20,7 @@ This is a collection of social architecture patterns that one day will hopefully
 * [(013) Identifiable neighbourhoods](patterns/(013)%20Identifiable%20neighbourhoods/README.md)
 * [(014) Community of 7000](patterns/(014)%20Community%20of%207000/RAEDME.md)
 * [(015) Web of public transport](patterns/(015)%20Web%20of%20public%20transport/README.md)
-* [(016) Density rings](patterns/(016)%20Density%20rings/README.md))
+* [(016) Density rings](patterns/(016)%20Density%20rings/README.md)
 * [(017) Activity nodes](patterns/(017)%20Activity%20nodes/README.md)
 * [(018) Main gateways](patterns/(018)%20Main%20gateways/README.md)
 * [(019) Children in the city](patterns/(019)%20Children%20in%20the%20city/README.md)
