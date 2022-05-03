@@ -2,6 +2,10 @@
 
 This is a collection of social architecture patterns that one day will hopefully form a pattern language to describe, communicate and craft social architectures around information infrastructures.
 
+Currently these consist of a mix of somewhat well formed patterns and others that are thoughts captured as placeholders to further explore and refine as patterns.  Soe of these may turn out not to be patterns at all.
+
+This is very much a work in progress.
+
 
 ## Patterns
 
