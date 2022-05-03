@@ -32,6 +32,8 @@ This is a collection of social architecture patterns that one day will hopefully
 * [(025) Public outdoor rooms](patterns/(025)%20Public%20outdoor%20rooms/README.md)
 * [(026) The core unit](patterns/(026)%20The%20core%20unit/README.md)
 * [(027) Building complex](patterns/(027)%20Building%20complex/README.md)
+* [(028) Main building](patterns/(028)%20Main%20building/README.md)
+* [(029) Family of entrances](patterns/(029)%20Family%20of%20entrances/README.md)
 * [(030) Connected Systems](patterns/(030)%20Connected%20Systems/README.md)
 * [(031) Maturing of the startup](patterns/(031)%20Maturing%20of%20the%20startup/README.md)
 * [(032) Large platforms lead to interoperable data](patterns/(032)%20Large%20platforms%20lead%20to%20interoperable%20data/README.md)
@@ -40,8 +42,9 @@ This is a collection of social architecture patterns that one day will hopefully
 * [(035) Getting data to the facility](patterns/(035)%20Getting%20data%20to%20the%20facility/README.md)
 * [(036) Pioneers, settlers & town planners](patterns/(036)%20Pioneers%2C%20settlers%20%26%20town%20planners/README.md)
 * [(037) Collaborating with privacy](patterns/(037)%20Collaborating%20with%20privacy/README.md)
+* [(038) Challenge of training](patterns/(038)%20Challenge%20of%20training/README.md)
 * [(039) Digital transformation](patterns/(039)%20Digital%20transformation/README.md)
-
+* [(040) The translator](patterns/(040)%20The%20translator/README.md)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
