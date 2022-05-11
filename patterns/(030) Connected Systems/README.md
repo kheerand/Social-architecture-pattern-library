@@ -17,7 +17,7 @@ Other times it is because there is insufficient relationship and trust between t
 
 ## Consequence of problem
 
-When systems that should be connected are not connected together, it results in increased barriers for frictionless flow of information.  Furthermore, as middleware (be it human or machine) needs to be introduced to bridge the void of systems not being connected, it introduces increased cost and errors.
+When systems that should be connected are not connected together, it results in increased barriers for frictionless flow of information.  Furthermore, as middleware needs to be introduced (be it human or machine) to bridge the void of systems not being connected, it introduces increased cost and errors.
 
 ## Solution patterns
 
