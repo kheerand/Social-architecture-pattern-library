@@ -25,6 +25,7 @@ Build systems from inception to be interoperable and work with other systems aro
 
 - The use of well defined APIs for system-to-system interfaces enables interconnection of systems.
 - The adoption of standards, specially open standards makes it easier to build and maintain interconnected systems.
+- Foster relationships with owners of other related systems and establish trust between each other to remove or reduce the social barriers.
 
 
 ## Related Patterns
