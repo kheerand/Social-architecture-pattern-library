@@ -1,4 +1,4 @@
-# (030) Connected ~~buildings~~systems
+# (030) Connected systems
 
 ![](images/image001.png)
 
