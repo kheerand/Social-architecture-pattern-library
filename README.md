@@ -22,7 +22,7 @@ This is very much a work in progress.
 * [(011) Magic of the city](patterns/(011)%20Magic%20of%20the%20city/README.md)
 * [(012) Local transport areas](patterns/(012)%20Local%20transport%20areas/README.md)
 * [(013) Identifiable neighbourhoods](patterns/(013)%20Identifiable%20neighbourhoods/README.md)
-* [(014) Community of 7000](patterns/(014)%20Community%20of%207000/RAEDME.md)
+* [(014) Community of 7000](patterns/(014)%20Community%20of%207000/README.md)
 * [(015) Web of public transport](patterns/(015)%20Web%20of%20public%20transport/README.md)
 * [(016) Density rings](patterns/(016)%20Density%20rings/README.md)
 * [(017) Activity nodes](patterns/(017)%20Activity%20nodes/README.md)
@@ -54,3 +54,4 @@ This is very much a work in progress.
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
