@@ -49,7 +49,7 @@ This is very much a work in progress.
 * [(038) Challenge of training](patterns/(038)%20Challenge%20of%20training/README.md)
 * [(039) Digital transformation](patterns/(039)%20Digital%20transformation/README.md)
 * [(040) The translator](patterns/(040)%20The%20translator/README.md)
-* [(041) Dunbar number](patterns/(041)%20Dunbar%20number/README.md))
+* [(041) Dunbar number](patterns/(041)%20Dunbar%20number/README.md)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
