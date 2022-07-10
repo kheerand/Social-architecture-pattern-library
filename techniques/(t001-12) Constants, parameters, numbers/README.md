@@ -4,6 +4,8 @@
 
 ## Context
 
+Parameters are numbers described in the system. These include the level of the stock, the quantity of the flows, and more generally it includes swapping individual elements in the same system.  
+
 Parameters are points of lowest leverage effects. Though they are the most clearly perceived among all leverages, they rarely change behaviors and therefore have little long-term effect[[1](#1)].
 
 ## Technique
@@ -31,3 +33,4 @@ For example, climate parameters may not be changed easily (the amount of rain, t
 ## References
 
 <a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points
+<a name="2">[2]</a> https://www.shortform.com/blog/donella-meadows-leverage-points
