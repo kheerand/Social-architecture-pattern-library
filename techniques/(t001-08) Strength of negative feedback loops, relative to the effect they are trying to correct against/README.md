@@ -1,4 +1,4 @@
-# (T001-8) Strength of negative feedback loops, relative to the effect they are trying to correct against
+# (T001-08) Strength of negative feedback loops, relative to the effect they are trying to correct against
 
 <image>
 
