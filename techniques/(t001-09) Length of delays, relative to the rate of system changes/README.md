@@ -1,4 +1,4 @@
-# (T001-9) Length of delays (relative to the rate of system changes)
+# (T001-09) Length of delays (relative to the rate of system changes)
 
 <image>
 
