@@ -4,7 +4,12 @@
 
 ## Context
 
-Self-organization describes a system's ability to change itself by creating new structures, adding new negative and positive feedback loops, promoting new information flows, or making new rules[[1](#1)].
+Self-organization is the ability of a system to change itself, and possibly reinvent itself by creating new structures, adding new negative and positive feedback loops, promoting new information flows, or making new rules[[1](#1)]. This leads to impressive resilience, as the system can adapt to changing circumstances. It’s also more powerful than any leverage point we’ve discussed so far, because a self-organizing system can improve its rules, information flow, and feedback loops.
+
+Vastly complex self-organization can result from a few simple rules:
+
+*  Biological evolution results from 1) the encoding of life in DNA, 2) the ability to generate mutations in DNA, and 3) the pressure of natural selection to select for the more successful mutations.
+*  Human technology develops with 1) the knowledge of existing science and technology, 2) the human creativity that generates new innovations, and 3) the market forces that select for more useful innovations and reward creators.
 
 ## Technique
 
@@ -21,7 +26,7 @@ Self-organization describes a system's ability to change itself by creating new 
 
 
 ## Examples
-
+### Example 1
 For example, microorganisms have the ability to not only change to fit their new polluted environment, but also to undergo an evolution that makes them able to biodegrade or bioaccumulate chemical pollutants. This capacity of part of the system to participate in its own eco-evolution is a major leverage for change[[1](#1)].
 
 ## Counter examples
@@ -30,4 +35,5 @@ For example, microorganisms have the ability to not only change to fit their new
 
 ## References
 
-<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points
+<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points  
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points

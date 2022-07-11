@@ -4,7 +4,7 @@
 
 ## Context
 
-Information flow is neither a parameter, nor a reinforcing or slowing loop, but a loop that delivers new information. It is cheaper and easier to change information flows than it is to change structure[[1](#1)].
+In a system, decisions and well-functioning feedback loops often require information. In contrast, missing information can lead to system malfunction. People without information cannot make decisions to meet the system goals. The leverage point is then to provide the right information in the right form[[2](#2)]. It is cheaper and easier to change information flows than it is to change structure[[1](#1)].
 
 ## Technique
 
@@ -21,8 +21,18 @@ Information flow is neither a parameter, nor a reinforcing or slowing loop, but 
 
 
 ## Examples
+### Example 1
 
 For example, a monthly public report of water pollution level, especially nearby the industrial release, could have a lot of effect on people's opinions regarding the industry, and lead to changes in the waste water level of pollution[[1](#1)].
+
+### Example 2
+
+The car lot manager requires information about current inventory.
+
+### Example 3
+
+A democracy requires information about the government for voters.
+
 
 ## Counter examples
 
@@ -30,4 +40,5 @@ For example, a monthly public report of water pollution level, especially nearby
 
 ## References
 
-<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points
+<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points  
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points
