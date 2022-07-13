@@ -5,6 +5,8 @@
 
 ## Context
 
+The highest leverage point, even beyond system paradigms, is to free yourself from fixed paradigms. A paradigm is just an idea. No paradigm is absolute truth, and it contains just a small slice of understanding an endlessly complex universe. To transcend paradigms is to prevent yourself from being fixed to any particular paradigm, and to be flexible[[2](#2)].
+
 Transcending paradigms may go beyond challenging fundamental assumptions, into the realm of changing the values and priorities that lead to the assumptions, and being able to choose among value sets at will[[1](#1)].
 
 ## Technique
@@ -22,6 +24,7 @@ Transcending paradigms may go beyond challenging fundamental assumptions, into t
 
 
 ## Examples
+### Example 1
 
 Many today see Nature as a stock of resources to be converted to human purpose. Many Native Americans see Nature as a living god, to be loved, worshipped, and lived with. These views are incompatible, but perhaps another viewpoint could incorporate them both, along with others[[1](#1)].
 
@@ -33,4 +36,5 @@ Many today see Nature as a stock of resources to be converted to human purpose. 
 
 ## References
 
-<a name="1"></a>[1] https://en.wikipedia.org/wiki/Twelve_leverage_points
+<a name="1"></a>[1] https://en.wikipedia.org/wiki/Twelve_leverage_points  
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points

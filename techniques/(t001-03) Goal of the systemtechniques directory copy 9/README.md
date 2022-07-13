@@ -4,7 +4,7 @@
 
 ## Context
 
-Changing goals changes every item listed above: parameters, feedback loops, information and self-organization[[1](#1)].
+A system’s goals determine its behaviors. Changing goals can mutate every lower leverage point to suit the system’s new goals[[2](#2)]. Therefore, changing the goals of the system changes every item listed above: parameters, feedback loops, information and self-organization[[1](#1)].
 
 ## Technique
 
@@ -21,6 +21,7 @@ Changing goals changes every item listed above: parameters, feedback loops, info
 
 
 ## Examples
+### Example 1
 
 A city council decision might be to change the goal of the lake from making it a free facility for public and private use, to a more tourist oriented facility or a conservation area. That goal change will effect several of the above leverage points: information on water quality will become mandatory and legal punishment will be set for any illegal effluent[[1](#1)].
 
@@ -30,4 +31,5 @@ A city council decision might be to change the goal of the lake from making it a
 
 ## References
 
-<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points
+<a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points  
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points
