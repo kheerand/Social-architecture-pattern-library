@@ -32,4 +32,5 @@ A city council decision might be to change the goal of the lake from making it a
 ## References
 
 <a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points  
-<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points  
+<a name="3" />[3] https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
