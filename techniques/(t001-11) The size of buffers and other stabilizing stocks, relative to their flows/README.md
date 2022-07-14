@@ -40,4 +40,5 @@ The inhabitants are worried the lake fish might die as a consequence of hot wate
 ## References
 
 <a name="1">[1]</a> https://en.wikipedia.org/wiki/Twelve_leverage_points  
-<a name="2">[2]</a> https://www.shortform.com/blog/donella-meadows-leverage-points
+<a name="2" />[2] https://www.shortform.com/blog/donella-meadows-leverage-points  
+<a name="3">[3]</a> https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
