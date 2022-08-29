@@ -16,6 +16,10 @@ Hinders the progress.
 
 ## Solution patterns
 
+* [Create formal trust between people](../../solution%20patterns/(S001)%20Create%20formal%20trust%20between%20people/README.md) involved
+* [Create informal trust between people](../../solution%20patterns/(S002)%20Create%20informal%20trust%20between%20people/README.md) involved
+* Use [agreements to create formal trust](../../solution%20patterns/(S003)%20Agreements%20to%20create%20trust/README.md) relationships between organisations involved
+
 ## Related Patterns
 
 ## Examples
