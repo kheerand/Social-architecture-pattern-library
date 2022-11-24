@@ -19,7 +19,7 @@ There is little attention given to matching the personality with the role at han
 
 ## Solution patterns
 
-Understand the evolutionary stage that something is at, and match the people with the right personality to it.
+Utilising techniques such as [Wardley mapping](https://en.wikipedia.org/wiki/Wardley_map), understand the evolutionary stage that something is at, and match the people with the right personality to it.
 
 Have teams with similar personality types for each stage of evolution.
 
