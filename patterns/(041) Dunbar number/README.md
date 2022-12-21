@@ -8,7 +8,7 @@ Dunbar's number is 150, which defines the uper limit of the number of people hum
 
 ## Problem
 
-As the soclal network grows to 150, it requires approximately 42% of its members' time should be spent in social grooming, building trust and social capital. 
+As the soclal network grows to 150, it requires approximately 42% of its members' time to be spent in social grooming, building trust and social capital. 
 
 ## Consequence of problem
 
