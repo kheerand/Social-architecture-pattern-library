@@ -21,7 +21,6 @@ Networked governance...`<expand>`
 
 ### Broader
 
-
 ### Narrower
 
 ## Examples
@@ -37,3 +36,4 @@ Networked governance...`<expand>`
 ## References
 
 * Reference Paul Box's work on AgriFed
+* “Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile.” New England Complex Systems Institute. Accessed June 18, 2022. https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile.
