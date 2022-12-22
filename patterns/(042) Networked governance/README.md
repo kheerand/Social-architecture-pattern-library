@@ -4,7 +4,9 @@
 
 ## Context
 
-| NOTE: Draw on the Agrifed model to fill in the details here.
+| **NOTE:**  
+| - Draw on the Agrifed model to fill in the details here.  
+| - Also draw on material from Complexity Rising
 
 ## Problem
 
