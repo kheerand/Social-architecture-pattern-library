@@ -7,6 +7,7 @@ This is very much a work in progress.
 
 ## Techniques
 * [(T001) Leverage points to intervene in a system](./(T001)%20Leverage%20points%20to%20intervene%20in%20a%20system/README.md)
+* [(T002) User centered design](./(T002)%20User%20centered%20design/README.md)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
