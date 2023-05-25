@@ -6,6 +6,7 @@
 
 > **NOTE:**
 > Is this an anti-pattern?
+  
 > **NOTE:**
 > This is too research focused, but the pattern is valid.  Generalise it further.
 
