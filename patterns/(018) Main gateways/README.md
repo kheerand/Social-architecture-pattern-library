@@ -22,7 +22,7 @@ relevant to them.  Each gateway should have a distinct focus, or specific contex
 from other main gateways and to provide additional context to the consumer.
 
 ## Related Patterns
-
+* [(030) Connected systems](https://github.com/kheerand/Social-architecture-pattern-library/blob/master/patterns/(030)%20Connected%20Systems/README.md)
 
 ## Examples
 
