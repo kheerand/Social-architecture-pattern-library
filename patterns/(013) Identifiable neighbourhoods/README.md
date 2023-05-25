@@ -16,6 +16,7 @@
 
 ## Related Patterns
 
+* [(018) Main Gateways](https://github.com/kheerand/Social-architecture-pattern-library/blob/master/patterns/(018)%20Main%20gateways/README.md)
 
 ## Examples
 
