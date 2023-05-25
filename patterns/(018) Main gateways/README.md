@@ -23,6 +23,7 @@ from other main gateways and to provide additional context to the consumer.
 
 ## Related Patterns
 * [(030) Connected systems](https://github.com/kheerand/Social-architecture-pattern-library/blob/master/patterns/(030)%20Connected%20Systems/README.md)
+* [(013) Identifiable Neighbourhoods](https://github.com/kheerand/Social-architecture-pattern-library/blob/master/patterns/(013)%20Identifiable%20neighbourhoods/README.md)
 
 ## Examples
 
