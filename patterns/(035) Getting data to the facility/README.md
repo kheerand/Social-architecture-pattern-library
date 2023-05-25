@@ -6,6 +6,8 @@
 
 > **NOTE:**
 > Is this an anti-pattern?
+> **NOTE:**
+> This is too research focused, but the pattern is valid.  Generalise it further.
 
 Potential data providers are currently not contributing data to the facility.
 
