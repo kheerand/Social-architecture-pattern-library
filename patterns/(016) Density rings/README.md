@@ -19,6 +19,8 @@ Relates to DMA Density axis.
 
 ## Related Patterns
 
+* [(041) Dunbar's number](../(041)%20Dunbar%20number/README.md)  
+
 
 ## Examples
 

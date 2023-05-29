@@ -16,6 +16,8 @@ _what are these challenges?_ create a list of them here and discuss them briefly
 
 ## Related Patterns
 
+* [(041) Dunbar's number](../(041)%20Dunbar%20number/README.md)  
+
 ## Examples
 
 <links to examples>

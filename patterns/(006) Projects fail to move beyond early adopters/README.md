@@ -17,6 +17,8 @@ Many projects and activities fail to move beyond its early adopters.  It is obse
 
 ## Related Patterns
 
+* [(041) Dunbar's number](../(041)%20Dunbar%20number/README.md)  
+
 ## Examples
 
 <links to examples>
