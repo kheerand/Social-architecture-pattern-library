@@ -8,6 +8,7 @@ In a networked system that relates to the same kind of information, typically ea
 
 > **NOTE:**
 > Relating to pattern 27, I think there needs to be a main "building" that the "building complex" is clustered around.
+> 
 > Source: A Pattern Language 99
 
 ## Problem
