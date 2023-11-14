@@ -13,7 +13,7 @@ This is very much a work in progress.
 
 [Collection of social architecture patterns](./patterns/README.md) that form the body of the pattern language.
 
-## Tecniques
+## Techniques
 
 [Collection of techniques that can be applied in social architecture](./techniques/README.md) contains various techniques that can be utilised and applied in developing and
 implementing social architectures.
