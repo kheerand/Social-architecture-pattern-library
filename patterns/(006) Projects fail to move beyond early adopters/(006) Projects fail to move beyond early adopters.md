@@ -3,7 +3,7 @@
 > **NOTE:**
 > Need a catchier name for this pattern
 
-<image>
+`<image>`
 
 ## Context
 Many projects and activities fail to move beyond its early adopters.  It is observed that quite often the early adopters in these are ECRs with a handful of later career researchers.  What are some of the patterns that can be used to aid this or decide what to do next?
@@ -17,8 +17,8 @@ Many projects and activities fail to move beyond its early adopters.  It is obse
 
 ## Related Patterns
 
-* [(041) Dunbar's number](../(041)%20Dunbar%20number/README.md)  
+* [(041) Dunbar's number](041%20-%20Dunbar's%20number.md)  
 
 ## Examples
 
-<links to examples>
+`<links to examples>`

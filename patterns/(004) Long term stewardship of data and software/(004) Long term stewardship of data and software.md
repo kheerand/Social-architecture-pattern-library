@@ -1,6 +1,6 @@
 # (004) Long term stewardship of data and software
 
-<image here>
+`<image here>`
 
 ## Context
 
@@ -48,4 +48,4 @@ Left alone, data and software assets tend to deteriorate in its usefulness.  The
 > Data commons is a good example of this.  In particular the Global Data commons framework that RDA are working on
 > provides the mechanisms by which such durable infrastructure can be established.
 
-<links to examples>
+`<links to examples>`

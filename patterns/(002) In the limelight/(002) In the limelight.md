@@ -16,4 +16,4 @@ Find ways of sharing the limelight amongst the group members in equitable ways.
 
 ## Examples
 
-<links to examples>
+`<links to examples>`

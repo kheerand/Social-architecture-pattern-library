@@ -1,6 +1,6 @@
 # (T001-6) Structure of information flow (who does and does not have access to what kinds of information)
 
-<image>
+`<image>`
 
 ## Context
 
@@ -36,7 +36,7 @@ A democracy requires information about the government for voters.
 
 ## Counter examples
 
-<links to counter-examples>
+`<links to counter-examples>`
 
 ## References
 

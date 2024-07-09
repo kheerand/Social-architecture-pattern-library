@@ -1,6 +1,6 @@
 # (t001) Leverage points to intervene in a system
 
-<image>
+`<image>`
 
 ## Context
 
@@ -39,11 +39,11 @@ These are listed in increasing order of effectiveness.
 
 ## Examples
 
-<links to examples>
+`<links to examples>`
 
 ## Counter examples
 
-<links to counter-examples>
+`<links to counter-examples>`
 
 ## References
 

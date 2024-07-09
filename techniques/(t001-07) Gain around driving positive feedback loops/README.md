@@ -1,6 +1,6 @@
 # (T001-7) Gain around driving positive feedback loops
 
-<image>
+`<image>`
 
 ## Context
 
@@ -32,7 +32,7 @@ The eutrophication of a lake is a typical feedback loop that goes wild. In a eut
 
 ## Counter examples
 
-<links to counter-examples>
+`<links to counter-examples>`
 
 ## References
 

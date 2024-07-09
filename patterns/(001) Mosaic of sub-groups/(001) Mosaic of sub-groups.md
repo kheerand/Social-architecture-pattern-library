@@ -4,10 +4,12 @@
 
 ## Problem
 
-A discipline group consists of a number of sub-disciplines which while broadly related are sufficiently different that their needs, cultures and work practices don't necessarily have a high degree of overlap.  Traditionally, architecture and urban design have often been based on a monoculture, homogeneous approach, which can lead to the exclusion of certain groups and a lack of representation.  This can result in an environment that does not reflect the diversity of the community it serves.
+A discipline group consists of a number of sub-disciplines which while broadly related are sufficiently different that their needs, cultures and work practices don't have a high degree of overlap.  Traditionally, architecture and urban design have often been based on a monoculture, homogeneous approach, which can lead to the exclusion of certain groups and a lack of representation.  This can result in an environment that does not reflect the diversity of the community it serves.
 
 
 ## Solution patterns
+> [!warning] this info is not right and needs correction. 
+
 
 In a socio-technical information system, the technical aspect of the system are the hardware, software, and network infrastructure that make up the system. The social aspect of the system refers to the people who interact with and use the technical elements, such as the users, system administrators, and developers.
 
@@ -27,7 +29,7 @@ By addressing the interactions and relationships between the technical and socia
 
 ## Related Patterns
 
-* [(041) Dunbar's number](../(041)%20Dunbar%20number/README.md)  
+* [(041) Dunbar's number](041%20-%20Dunbar's%20number.md)  
 * (008) ????
 
 
@@ -35,4 +37,4 @@ By addressing the interactions and relationships between the technical and socia
 
 * [(E001.1) Taxonomy sub-groups](./examples/(E001.1)%20Taxonomy%20sub-groups.md)
 
-<links to examples>
+%%<links to examples>%%
