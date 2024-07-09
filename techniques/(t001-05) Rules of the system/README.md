@@ -1,6 +1,6 @@
 # (T001-5) Rules of the system (such as incentives, punishment, constraints)
 
-<image>
+`<image>`
 
 ## Context
 
@@ -27,7 +27,7 @@ For example, a strengthening of the law related to chemicals release limits, or 
 
 ## Counter examples
 
-<links to counter-examples>
+`<links to counter-examples>`
 
 ## References
 

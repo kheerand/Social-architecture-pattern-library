@@ -1,4 +1,4 @@
-# (041) Dunbar's number
+# 041 - Dunbar's number
 
 <image>
 
@@ -26,7 +26,7 @@ It is, however, important to note that the Dunbar number is not a hard and fast 
 
 ### Broader
 
-* [(001) Mosaic of sub-groups](../(001)%20Mosaic%20of%20sub-groups/README.md)
+* [(001) Mosaic of sub-groups](../(001)%20Mosaic%20of%20sub-groups/(001)%20Mosaic%20of%20sub-groups.md)
 
 ### Narrower
 

@@ -1,4 +1,4 @@
-# (040) The translator
+# 040 - The translator
 
 <image>
 
@@ -13,7 +13,7 @@ When people from different communities work together, communication of meaning c
 ## Consequence of problem
 
 - The Translator act as the connective tissue between the communities or disciplines.
-- Lack translators in cross community or discipline groups can lead to mistrust, breakdown in communication and utlimately failed projects.
+- Lack of translators in cross community or discipline groups can lead to mistrust, breakdown in communication and utlimately failed projects.
 
 > **NOTE:**
 > These consequences need tweaking to match the heading.  eg: 1st one is not a consequence of the problem, but of applying the solution.

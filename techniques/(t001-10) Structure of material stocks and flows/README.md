@@ -1,6 +1,6 @@
 # (T001-10) Stock and flow structure (of material) 
 
-<image>
+`<image>`
 
 ## Context
 
@@ -34,7 +34,7 @@ A government could change how money flows—currently it receives taxation from 
 
 ## Counter examples
 
-<links to counter-examples>
+`<links to counter-examples>`
 
 ## References
 

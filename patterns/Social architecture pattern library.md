@@ -9,14 +9,14 @@ This is very much a work in progress.
 
 ## Patterns
 
-* [(001) Mosaic of sub-groups](./(001)%20Mosaic%20of%20sub-groups/README.md)
-* [(002) In the limelight](./(002)%20In%20the%20limelight/README.md)
-* [(003) Boundaries of a domain](./(003)%20Boundaries%20of%20a%20domain/README.md)
-* [(004) Long term stewardship of data and software](./(004)%20Long%20term%20stewardship%20of%20data%20and%20software/README.md)
-* [(005) Data market](./(005)%20Data%20market/README.md)
-* [(006) Projects fail to move beyond early adopters](./(006)%20Projects%20fail%20to%20move%20beyond%20early%20adopters/README.md)
-* [(007) Sustaining a burgeoning community](./(007)%20Sustaining%20a%20burgeoning%20community/README.md)
-* [(008) Shared pool of knowledge](./(008)%20Shared%20pool%20of%20knowledge/README.md)
+* [(001) Mosaic of sub-groups]((001)%20Mosaic%20of%20sub-groups/(001)%20Mosaic%20of%20sub-groups.md)
+* [(002) In the limelight]((002)%20In%20the%20limelight/(002)%20In%20the%20limelight.md)
+* [(003) Boundaries of a domain]((003)%20Boundaries%20of%20a%20domain/(003)%20Boundaries%20of%20a%20domain.md)
+* [(004) Long term stewardship of data and software]((004)%20Long%20term%20stewardship%20of%20data%20and%20software/(004)%20Long%20term%20stewardship%20of%20data%20and%20software.md)
+* [(005) Data market]((005)%20Data%20market/(005)%20Data%20market.md)
+* [(006) Projects fail to move beyond early adopters]((006)%20Projects%20fail%20to%20move%20beyond%20early%20adopters/(006)%20Projects%20fail%20to%20move%20beyond%20early%20adopters.md)
+* [(007) Sustaining a burgeoning community](007%20-%20Sustaining%20a%20burgeoning%20community.md)
+* [(008) Shared pool of knowledge]((008)%20Shared%20pool%20of%20knowledge/(008)%20Shared%20pool%20of%20knowledge.md)
 * [(009) Crucial Conversations](./(009)%20Crucial%20Conversations/README.md)
 * [(010) The startup](./(010)%20The%20startup/README.md)
 * [(011) Magic of the city](./(011)%20Magic%20of%20the%20city/README.md)
@@ -48,8 +48,8 @@ This is very much a work in progress.
 * [(037) Collaborating with privacy](./(037)%20Collaborating%20with%20privacy/README.md)
 * [(038) Challenge of training](./(038)%20Challenge%20of%20training/README.md)
 * [(039) Digital transformation](./(039)%20Digital%20transformation/README.md)
-* [(040) The translator](./(040)%20The%20translator/README.md)
-* [(041) Dunbar number](./(041)%20Dunbar%20number/README.md)
+* [(040) The translator](040%20-%20The%20translator.md)
+* [(041) Dunbar number](041%20-%20Dunbar's%20number.md)
 * [(042) Networked Governance](./(042)%20Networked%20governance/README.md)
 
 [![CC BY 4.0][cc-by-image]][cc-by]

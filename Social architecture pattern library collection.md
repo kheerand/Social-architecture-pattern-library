@@ -11,7 +11,7 @@ This is very much a work in progress.
 
 ## Patterns
 
-[Collection of social architecture patterns](./patterns/README.md) that form the body of the pattern language.
+[Collection of social architecture patterns](Social%20architecture%20pattern%20library.md) that form the body of the pattern language.
 
 ## Techniques
 

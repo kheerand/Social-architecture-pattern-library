@@ -1,6 +1,6 @@
 # (010) The Startup
 
-<image>
+`<image>`
 
 ## Context
 
@@ -31,4 +31,4 @@ Some patterns associated with this are,
 
 ALA has recently (2018) emerged out of its start up phase.
 
-<links to examples>
+`<links to examples>`
