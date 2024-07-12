@@ -1,14 +1,20 @@
-# (TNNN) <Technique name>
+# (NNN) <Pattern name>
 
 <image>
 
 ## Context
 
 
-## Technique
+## Problem
 
 
-## Related Topics
+## Consequence of problem
+
+
+## Solution patterns
+
+
+## Related Patterns
 
 ### Related
 
@@ -24,7 +30,3 @@
 ## Counter examples
 
 <links to counter-examples>
-
-## References
-
-<links to references>

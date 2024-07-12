@@ -17,7 +17,7 @@ Projects that begin life in a (10) Startup pattern when successful grow and hit 
 
 ## Related Patterns
 
-* [(010) The startup](../(010)%20The%20startup/README.md)
+* [(010) The startup]((010)%20The%20startup.md)
 * Agility and nimbleness.
 
 ## Examples

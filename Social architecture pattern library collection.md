@@ -15,7 +15,7 @@ This is very much a work in progress.
 
 ## Techniques
 
-[Collection of techniques that can be applied in social architecture](./techniques/README.md) contains various techniques that can be utilised and applied in developing and
+[Collection of techniques that can be applied in social architecture](Techniques%20library.md) contains various techniques that can be utilised and applied in developing and
 implementing social architectures.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
