@@ -9,21 +9,21 @@ This is very much a work in progress.
 
 ## Patterns
 
-* [(001) Mosaic of sub-groups]((001)%20Mosaic%20of%20sub-groups/(001)%20Mosaic%20of%20sub-groups.md)
-* [(002) In the limelight]((002)%20In%20the%20limelight/(002)%20In%20the%20limelight.md)
-* [(003) Boundaries of a domain]((003)%20Boundaries%20of%20a%20domain/(003)%20Boundaries%20of%20a%20domain.md)
-* [(004) Long term stewardship of data and software]((004)%20Long%20term%20stewardship%20of%20data%20and%20software/(004)%20Long%20term%20stewardship%20of%20data%20and%20software.md)
-* [(005) Data market]((005)%20Data%20market/(005)%20Data%20market.md)
-* [(006) Projects fail to move beyond early adopters]((006)%20Projects%20fail%20to%20move%20beyond%20early%20adopters/(006)%20Projects%20fail%20to%20move%20beyond%20early%20adopters.md)
-* [(007) Sustaining a burgeoning community](007%20-%20Sustaining%20a%20burgeoning%20community.md)
-* [(008) Shared pool of knowledge]((008)%20Shared%20pool%20of%20knowledge/(008)%20Shared%20pool%20of%20knowledge.md)
-* [(009) Crucial Conversations](./(009)%20Crucial%20Conversations/README.md)
-* [(010) The startup](./(010)%20The%20startup/README.md)
-* [(011) Magic of the city](./(011)%20Magic%20of%20the%20city/README.md)
-* [(012) Local transport areas](./(012)%20Local%20transport%20areas/README.md)
-* [(013) Identifiable neighbourhoods](./(013)%20Identifiable%20neighbourhoods/README.md)
-* [(014) Community of 7000](./(014)%20Community%20of%207000/README.md)
-* [(015) Web of public transport](./(015)%20Web%20of%20public%20transport/README.md)
+* [[(001) Mosaic of sub-groups]]
+* [[(002) In the limelight]]
+* [[(003) Boundaries of a domain]]
+* [[(004) Long term stewardship of data and software]]
+* [[(005) Data market]]
+* [[(006) Projects fail to move beyond early adopters]]
+* [[(007) Sustaining a burgeoning community]]
+* [[(008) Shared pool of knowledge]]
+* [[(009) Crucial Conversations]]
+* [[(010) The startup]]
+* [[(011) Magic of the city]]
+* [[(012) Local transport areas]]
+* [[(013) Identifiable neighbourhoods]]
+* [[(014) Community of 7000][
+* [[(015) Web of public transport]]
 * [(016) Density rings](./(016)%20Density%20rings/README.md)
 * [(017) Activity nodes](./(017)%20Activity%20nodes/README.md)
 * [(018) Main gateways](./(018)%20Main%20gateways/README.md)
