@@ -9,7 +9,7 @@ Data standards and interoperability is increased when the data is held by, aggre
 > **NOTE**:
 > This is more of a solution pattern.  Need to convert it into a problem-solution pattern
 >
->This is related to [(011) Magic of the city](../(011)%20Magic%20of%20the%20city/README.md)
+>This is related to [(011) Magic of the city]((011)%20Magic%20of%20the%20city.md)
 
 
 ## Problem
@@ -23,7 +23,7 @@ Data standards and interoperability is increased when the data is held by, aggre
 
 ## Related Patterns
 
-* [(011) Magic of the city](../(011)%20Magic%20of%20the%20city/README.md)
+* [(011) Magic of the city]((011)%20Magic%20of%20the%20city.md)
 
 ## Examples
 
