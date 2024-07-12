@@ -32,7 +32,7 @@ These are listed in increasing order of effectiveness.
 
 ### Broader
 
-* [Techniques](../README.md)
+* [Techniques](Techniques%20library.md)
 
 ### Narrower
 
