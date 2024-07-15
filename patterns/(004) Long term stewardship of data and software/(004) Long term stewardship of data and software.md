@@ -40,7 +40,7 @@ Left alone, data and software assets tend to deteriorate in its usefulness.  The
 [(035) Getting data to the facility](../(035)%20Getting%20data%20to%20the%20facility/README.md)
 
 ### Related
-[(018) Main Gateways](../(018)%20Main%20gateways/README.md)
+[(018) Main Gateways]((018)%20Main%20gateways.md)
 
 ## Examples
 

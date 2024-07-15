@@ -24,13 +24,13 @@ This is very much a work in progress.
 * [[(013) Identifiable neighbourhoods]]
 * [[(014) Community of 7000][
 * [[(015) Web of public transport]]
-* [(016) Density rings](./(016)%20Density%20rings/README.md)
-* [(017) Activity nodes](./(017)%20Activity%20nodes/README.md)
-* [(018) Main gateways](./(018)%20Main%20gateways/README.md)
-* [(019) Children in the city](./(019)%20Children%20in%20the%20city/README.md)
-* [(020) Degrees of publicness](./(020)%20Degrees%20of%20publicness/README.md)
+* [(016) Density rings]((016)%20Density%20rings.md)
+* [(017) Activity nodes]((017)%20Activity%20nodes.md)
+* [(018) Main gateways]((018)%20Main%20gateways.md)
+* [(019) Children in the city]((019)%20Children%20in%20the%20city.md)
+* [(020) Degrees of publicness]((020)%20Degrees%20of%20publicness.md)
 * [(021) Local town hall](./(021)%20Local%20town%20hall/README.md)
-* [(022) Small public squares](./(022)%20Small%20public%20squares/README.md)
+* [(022) Small public squares]((022)%20Small%20public%20squares.md)
 * [(023) Common land](./(023)%20Common%20land/README.md)
 * [(024) Connect play](./(024)%20Connect%20play/README.md)
 * [(025) Public outdoor rooms](./(025)%20Public%20outdoor%20rooms/README.md)
