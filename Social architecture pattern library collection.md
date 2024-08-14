@@ -12,6 +12,7 @@ This is very much a work in progress.
 ## Patterns
 
 [Collection of social architecture patterns](Social%20architecture%20pattern%20library.md) that form the body of the pattern language.
+[[Social architecture pattern library]]that form the body of the pattern language.
 
 ## Techniques
 
