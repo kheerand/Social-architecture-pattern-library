@@ -1,6 +1,6 @@
 # (005) Data market
 
-![](images/image001.png)
+![](images/image001.png)  
 (image: Paul Box)
 ## Context
 Data is a tradable item.  There are competing forces that provide incentives and disincentives for sharing and trading data.
