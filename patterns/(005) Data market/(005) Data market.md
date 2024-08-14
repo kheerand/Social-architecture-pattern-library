@@ -15,4 +15,7 @@ Paul Box's data market model. `<sub elements of this can be additional patterns>
 
 ## Examples
 
-`<links to examples>`
+- [International Data Spaces](https://internationaldataspaces.org/)
+- [Gaia-X](https://gaia-x.eu/)
+- [European Open Science Cloud](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en) 
+
