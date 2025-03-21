@@ -32,7 +32,7 @@ These are listed in increasing order of effectiveness.
 
 ### Broader
 
-* [Techniques](Techniques%20library.md)
+* [Techniques](techniques/Techniques_library.md)
 
 ### Narrower
 
