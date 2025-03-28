@@ -10,6 +10,8 @@ This is a work in progress.
 ## Patterns
 - [(001)_Mosaic_of_sub-groups]((001)_Mosaic_of_sub-groups/(001)_Mosaic_of_sub-groups.md)
 - 
+- [001-Mosaic_of_sub-groups](001-Mosaic_of_sub-groups/001-Mosaic_of_sub-groups.md)
+- 
 - [(001) Mosaic of sub-groups]((001)_Mosaic_of_sub-groups/(001)_Mosaic_of_sub-groups.md)
 - [(002) In the limelight]((002)_In_the_limelight/(002)_In_the_limelight.md)
 - [(003)_Boundaries_of_a_domain]((003)_Boundaries_of_a_domain/(003)_Boundaries_of_a_domain.md)
