@@ -6,7 +6,6 @@ Currently these consist of a mix of somewhat well formed patterns and others tha
 
 This is a work in progress.
 
-
 ## Patterns
 - [001-Mosaic_of_sub-groups](001-Mosaic_of_sub-groups/001-Mosaic_of_sub-groups.md)
 - [002-In_the_limelight](002-In_the_limelight/002-In_the_limelight.md)
@@ -32,27 +31,25 @@ This is a work in progress.
 - [022-Small_public_squares](022-Small_public_squares/022-Small_public_squares.md)
 - [023-Common_land](023-Common_land/023-Common_land.md)
 - [024-Connect_play](024-Connect_play/024-Connect_play.md)
-- 
-- 
-- [(025)_Public_outdoor_rooms]((025)_Public_outdoor_rooms/(025)_Public_outdoor_rooms.md)
-- [(026)_The_core_unit]((026)_The_core_unit/(026)_The_core_unit.md)
-- [(027)_Building_complex]((027)_Building_complex/(027)_Building_complex.md)
-- [(028)_Main_building]((028)_Main_building/(028)_Main_building.md)
-- [(029)_Family_of_entrances]((029)_Family_of_entrances/(029)_Family_of_entrances.md)
-- [(030)_Connected_Systems]((030)_Connected_Systems/(030)_Connected_Systems.md)
-- [(031)_Maturing_of_the_startup]((031)_Maturing_of_the_startup/(031)_Maturing_of_the_startup.md)
-- [(032)_Large_platforms_lead_to_interoperable_data]((032)_Large_platforms_lead_to_interoperable_data/(032)_Large_platforms_lead_to_interoperable_data.md)
-- [(033)_The_midsize_enterprise]((033)_The_midsize_enterprise/(033)_The_midsize_enterprise.md)
-- [(034)_Attracting_users]((034)_Attracting_users/(034)_Attracting_users.md)
-- [(035)_Getting_data_to_the_facility]((035)_Getting_data_to_the_facility/(035)_Getting_data_to_the_facility.md)
-- [(036)_Pioneers_settlers_town_planners]((036)_Pioneers_settlers_town_planners/(036)_Pioneers_settlers_town_planners.md)
-- [(037)_Collaborating_with_privacy]((037)_Collaborating_with_privacy/(037)_Collaborating_with_privacy.md)
-- [(038)_Challenge_of_training]((038)_Challenge_of_training/(038)_Challenge_of_training.md)
-- [(039)_Digital_transformation]((039)_Digital_transformation/(039)_Digital_transformation.md)
-- [(040)_The_translator]((040)_The_translator/(040)_The_translator.md)
-- [(041)_Dunbar_number]((041)_Dunbar_number/(041)_Dunbar_number.md)
-- [(042)_Networked_governance]((042)_Networked_governance/(042)_Networked_governance.md)
-- [(043)_Density_Mix_and_Access]((043)_Density_Mix_and_Access/(043)_Density_Mix_and_Access.md)
+- [025-Public_outdoor_rooms](025-Public_outdoor_rooms/025-Public_outdoor_rooms.md)
+- [026-The_core_unit](026-The_core_unit/026-The_core_unit.md)
+- [027-Building_complex](027-Building_complex/027-Building_complex.md)
+- [028-Main_building](028-Main_building/028-Main_building.md)
+- [029-Family_of_entrances](029-Family_of_entrances/029-Family_of_entrances.md)
+- [030-Connected_Systems](030-Connected_Systems/030-Connected_Systems.md)
+- [031-Maturing_of_the_startup](031-Maturing_of_the_startup/031-Maturing_of_the_startup.md)
+- [032-Large_platforms_lead_to_interoperable_data](032-Large_platforms_lead_to_interoperable_data/032-Large_platforms_lead_to_interoperable_data.md)
+- [033-The_midsize_enterprise](033-The_midsize_enterprise/033-The_midsize_enterprise.md)
+- [034-Attracting_users](034-Attracting_users/034-Attracting_users.md)
+- [035-Getting_data_to_the_facility](035-Getting_data_to_the_facility/035-Getting_data_to_the_facility.md)
+- [036-Pioneers_settlers_town_planners](036-Pioneers_settlers_town_planners/036-Pioneers_settlers_town_planners.md)
+- [037-Collaborating_with_privacy](037-Collaborating_with_privacy/037-Collaborating_with_privacy.md)
+- [038-Challenge_of_training](038-Challenge_of_training/038-Challenge_of_training.md)
+- [039-Digital_transformation](039-Digital_transformation/039-Digital_transformation.md)
+- [040-The_translator](040-The_translator/040-The_translator.md)
+- [041-Dunbar_number](041-Dunbar_number/041-Dunbar_number.md)
+- [042-Networked_governance](042-Networked_governance/042-Networked_governance.md)
+- [043-Density_Mix_and_Access](043-Density_Mix_and_Access/043-Density_Mix_and_Access.md)
 
 
 This work is licensed under [CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1) <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" width="15px"> <img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" width="15px"> <img src="https://chooser-beta.creativecommons.org/img/cc-nd.de89fdeb.svg" width="15px">
