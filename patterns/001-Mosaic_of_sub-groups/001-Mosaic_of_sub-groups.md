@@ -4,20 +4,11 @@
 
 ## Problem
 
-A discipline group consists of a number of sub-disciplines which while broadly related are sufficiently different that their needs, cultures and work practices don't have a high degree of overlap.  Traditionally, architecture and urban design have often been based on a monoculture, homogeneous approach, which can lead to the exclusion of certain groups and a lack of representation.  This can result in an environment that does not reflect the diversity of the community it serves.
-
+A discipline group consists of a number of sub-disciplines which while broadly related are sufficiently different that their needs, cultures and work practices don't have a high degree of overlap.  
 
 ## Solution patterns
 > [!warning] this info is not right and needs correction. 
 
-
-In a socio-technical information system, the technical aspect of the system are the hardware, software, and network infrastructure that make up the system. The social aspect of the system refers to the people who interact with and use the technical elements, such as the users, system administrators, and developers.
-
-The concept of a "mosaic of sub-cultures" in architecture addresses the need for the technical elements of the information system to be inclusive and responsive to the diverse social groups that use them. This includes not only designing the information system to reflect the diversity of the community, but also creating systems and processes that are inclusive and responsive to the diverse needs of the community.
-
-For example, in a information system, it would mean considering the accessibility needs of different users and providing interfaces that cater to the different cultures, languages and working styles of the community it serves. It would also mean creating opportunities for engagement and participation by the community in the information system's activities.
-
-By addressing the interactions and relationships between the technical and social aspects of the information system, the concept of a "mosaic of sub-cultures" in architecture can help create a information system that is not only functional and efficient, but also inclusive and responsive to the diverse needs of the community it serves.
 
 1. Recognition that sub-cultures exists and identifying the sub-cultures that exist.
 2. Working towards establishing common languages, specially in areas that have overlapping needs or activities.
